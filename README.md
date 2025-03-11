@@ -16,13 +16,13 @@ Este programa pode ser executado tanto no navegador quanto no terminal, e tem co
 
 1. Clone ou baixe os arquivos deste repositório.
 2. Abra o arquivo `index.html` no seu navegador.
-3. Digite uma palavra ou frase no campo de texto e clique no botão "Verificar".
-4. O resultado será exibido abaixo do botão, indicando se a entrada é ou não um palíndromo.
+3. O arquivo HTML irá carregar o script `ex03.js` e executar a verificação diretamente no navegador.
+4. Digite uma palavra ou frase e veja o resultado que será exibido, indicando se a entrada é ou não um palíndromo.
 
 ### Usando no Terminal (Node.js)
 
 1. Clone ou baixe os arquivos deste repositório.
-2. Abra o terminal e navegue até o diretório onde está o arquivo `palindromo.js`.
+2. Abra o terminal e navegue até o diretório onde está o arquivo `ex03.js`.
 3. Execute o seguinte comando para rodar o código no terminal:
    ```bash
-   node palindromo.js
+   node ex03.js
